@@ -37,6 +37,7 @@ h1, h2{
     background-color: snow ;
     margin: 10px;
     padding: 10px;
+    font-family: 'Fascinate', cursive;
 }
 .menu{
   position: fixed;
