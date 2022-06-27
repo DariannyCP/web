@@ -19,19 +19,19 @@ html, body{
     min-height: 100vh;
 }
 section#intro{
-    background-color: #ffdde1;
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
 section#quien_soy {
-    background-color: #c97780;
+    background: linear-gradient(90deg, rgba(1,88,101,1) 0%, rgba(246,146,227,1) 100%);
 }
 section#cosas_feliz {
-    background-color: #4bdbab;
+    background: radial-gradient(circle, rgba(63,251,198,1) 0%, rgba(252,146,70,1) 100%);
 }
 section#cosas_enojar {
-    background-color: #9580f0;
+    background: linear-gradient(90deg, rgba(114,180,58,1) 0%, rgba(253,107,29,0.6446953781512605) 44%, rgba(252,219,69,1) 100%);
 }
 section#unico {
-    background-color: #f3e956;
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,45,101,1) 100%);
 }
 h1, h2{
     background-color: snow ;
