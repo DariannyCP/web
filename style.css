@@ -46,7 +46,7 @@ h1, h2{
   width: 100%;
 }
 
-#menu li {
+.menu li {
     color: thistle;
     border: solid 1px black;
     border-bottom: solid;
@@ -60,7 +60,7 @@ h1, h2{
     
 
 } 
-li #menu{
+.menu li{
     list-style: none;
 }
 
