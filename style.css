@@ -60,7 +60,7 @@ h1, h2{
     
 
 } 
-li{
+li #menu{
     list-style: none;
 }
 
