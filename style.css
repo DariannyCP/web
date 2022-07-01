@@ -64,6 +64,7 @@ h2 {
 }
 
 .menu {
+  z-index: 211512023165454540157896221;
   position: fixed;
   width: 100%;
   display: flex;
