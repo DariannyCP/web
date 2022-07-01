@@ -69,6 +69,7 @@ h2 {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
+  top: 0;
 }
 
 .menu li {
