@@ -154,3 +154,8 @@ a {
   align-items: center;
   text-align: center;
 }
+
+.panel p {
+  text-align: center;
+  font-size: 24px;
+}
